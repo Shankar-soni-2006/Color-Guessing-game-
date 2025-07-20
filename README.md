@@ -18,6 +18,19 @@ Red, Green, Blue, Yellow, Orange, Purple, Pink, Brown, Black, White
 6. If the player uses all 5 attempts without guessing correctly:
 - A **"Game Over"** message is shown.
 
+
+---
+
+## 🛠️ How to Run
+
+1. Save your code in a file named `Main.java`.
+2. Compile and run it via terminal or your IDE:
+
+```bash
+javac Main.java
+java Main
+
+
 ---
 
 ## 📁 File Structure
