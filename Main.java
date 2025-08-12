@@ -1,7 +1,7 @@
 
 
-import java.util.Scanner;
-import java.util.Random;
+import java.util.*;
+
 
 public class Main
 {
@@ -47,4 +47,5 @@ class ColorGame{
         Random r =new Random();
         return this.colors[r.nextInt(0,colors.length)];
     }
+
 }
