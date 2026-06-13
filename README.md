@@ -1,7 +1,7 @@
 # Color-Guessing-game
 # 🎨 Java Color Guessing Game
 
-This is a console-based **Color Guessing Game** built using Java. The player has to guess the color randomly chosen by the computer from a list of 10 predefined colors. The player gets 5 attempts to guess it right!
+This is a console-based **Color Guessing Game** built using Java. The player has to guess the color randomly chosen by the computer from a list of 10 predefined colors. The player gets 5 attempts to guess it right
 
 ---
 
